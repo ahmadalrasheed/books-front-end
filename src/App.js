@@ -5,9 +5,8 @@ import { withAuth0 } from "@auth0/auth0-react";
 import Footer from './Footer';
 import MyFavoriteBooks from './BestBooks';
 import Login from './Login';
-import Profile from './profile'
+import Profile from './profile';
 
-// import LoginButton  from './loginbutton'
 import {
   BrowserRouter as Router,
   Switch,

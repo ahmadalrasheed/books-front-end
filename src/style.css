@@ -1,6 +1,4 @@
-.card{
+.mycard{
     display: inline-block;
-    padding: 50px;
-    position: relative;
-    left: 20%;
+   
 }
